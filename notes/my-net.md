@@ -1,11 +1,11 @@
 
 ☐ Project/Request automation  
-→ ☐ GitHub component: create issue  
-→ ☐ Telegram: post to https://t.me/bounty_aga  
+→ ☐ GitHub component: create issue  // github updates are slow
+→ ☐ Telegram: post to https://t.me/bounty_aga  // messages can be deleted too easily
 → ☐ bountysource: post bounty  
 → ☐ Freelancer: post Project  
 → → ☐ unified interface to bids and conversations  
-→ → ☐ option to start a bid chat with a question that wasn't answered in the bid  
+→ → ☐ option to start a bid chat with a question that wasn't answered in the bid  //probably the best
 → ☐ Fiverr: post Request  
 → ☐ peopleperhour: post project  
 → ☐ track communication, “passing the ball”  
@@ -24,16 +24,16 @@
 → ☐ ObservableHQ interface  
 → ☐ klines server  
 → ☐ random IMDb  
-→ ☐ steam  
+→ ☐ steam  / windows release packages require msi certifications
 → ☐ dice length graphics, DP  
-→ ☐ kindle
+→ ☐ kindle      // brilliant idea, but connecting a CRM via zappier would have the same effect
 
 ☐ Experiment with gathering notes and folksonomies  
 → ☐ Long tail  
-→ ☐ City map
+→ ☐ City map        // see android projects for details on this, specifically tools for gmaps
 
 ☐ Mobile notes  
-→ ☐ NodeJS on Termux  
+→ ☐ NodeJS on Termux  does work to a great extent
 → → ☑ Import to Agenda  
 → ☒ amynet home screen widget
 
@@ -41,7 +41,7 @@
 
 * Offline-first. The code (application, toolbox) should help me with networks (clients, developers, providers, products) even without the internet. The information I enter should be useful first and foremost to myself. That way, if I decide to share it, the information will be truthful and hence also the information I'm getting from others.  
 (Compatible with [Syntropy](https://youtu.be/gSPNRu4ZPvE), the argoforestry metaphor?)
-
+//brilliant
 (Folksonomies are immediately useful as a way to retain information, to counter and/or detect eventual Transference, to guide simplifications. This might not be obvious).
 
 * Reuse. The code should add what's missing. If something is already implemented (job and bounty sites, markets, social networks) we should plug into the existing system, provide an added Value for them. For example, Upwork and GitHub already track the open source and private engagements, we can add combined statistics and graphics for them.  
